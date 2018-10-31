@@ -33,7 +33,7 @@ Follow these steps to score your first pull request and get your name on the [Ha
 
 ![Click Participants](./resources/03_click_participants.png)
 
-3. Once the forking opertion has completed, you will be in _your_ version of the repository. Click on `participants.json`. This is the file containing the names of everyone that wants to be on the leaderboard.
+3. Once the forking operation has completed, you will be in _your_ version of the repository. Click on `participants.json`. This is the file containing the names of everyone that wants to be on the leaderboard.
 
 ---
 
