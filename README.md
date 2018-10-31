@@ -12,7 +12,7 @@ Leaderboard repo: [github.com](https://github.com/austinwk/hacktoberfest_leaderb
 
 To help add some extra motivation to the Techlahoma community, I created a leaderboard that shows how many pull requests each member has contributed so far in October. Want to get on the board? Add your name to the `participants.json` file above by submitting a pull request and you will be automatically added to the leaderboard. _And_ you knock out one of your 5 pull requests. That's a win-win!
 
-Not sure how to submit a pull request? Follow the step-by-step guide below to see how! And, as always, don't be afraid to ask questions. Join the #Hacktoberfest channel on the Techlahoma Slack for help (join at [slack.techlahoma.org](http://slack.techlahoma.org/)).
+Not sure how to submit a pull request? Follow the step-by-step guide below to see how! And, as always, don't be afraid to ask questions. Join the [#Hacktoberfest](https://techlahoma.slack.com/messages/hacktoberfest) channel on the Techlahoma Slack for help (join at [slack.techlahoma.org](http://slack.techlahoma.org/)).
 
 ### Guide to your first Pull Request
 Follow these steps to score your first pull request and get your name on the [Hacktoberfest Leaderboard](https://hfleaderboard.herokuapp.com/)!
